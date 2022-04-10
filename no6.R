@@ -10,3 +10,7 @@ z <- function(input){
 
 z(x1 <- floor(mean(x)))
 z(x1 <- ceiling(mean(x)))
+
+
+#6c
+varian <- sd^2
